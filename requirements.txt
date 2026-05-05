@@ -1,0 +1,4 @@
+spotipy==2.23.0
+ytmusicapi==1.7.3
+requests>=2.31.0
+tqdm>=4.67.3

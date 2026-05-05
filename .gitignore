@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+
+# App data
+cache.json
+browser.json
+headers_auth.json
+missing_video_ids.json
+.cache
+
+# OS
+.DS_Store
